@@ -4,7 +4,7 @@
 <img align="right" width="400" src="https://www.bacancytechnology.com/blog/wp-content/uploads/2019/06/ezgif.com-crop-1.gif"
 
 # 💫 About Me:
-🔭 I’m currently working on Agricultural Automation using ML<br>👯 I’m looking to collaborate on Different ML Techniques<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Front-End Development<br>📫 How to reach me jenishborah@gmail.com<br>⚡ Fun fact Lazy Learner<br>
+🔭 I’m currently working on ANDROID DEVELOPMENT <br>👯 I’m looking to collaborate on Different ML Techniques<br>🌱 I’m currently learning ReactJS<br>💬 Ask me about Front-End Development<br>📫 How to reach me jenishborah@gmail.com<br>⚡ Fun fact Lazy Learner<br>
 ---
 [![](https://visitcount.itsvg.in/api?id=jenishborah&icon=5&color=1)](https://visitcount.itsvg.in)
 
